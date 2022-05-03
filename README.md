@@ -35,7 +35,7 @@ La historia continuará los eventos de Vengadores: Infinity War. Thanos destruy�
     ✔️ «Cueste lo que cueste» como bien dicen en el tráiler.
 Para ello deberán viajar por el Reino Cuántico, un lugar del que sale Ant-Man y que seguro que será la clave de todo. Además tendrán la ayuda de Capitana Marvel, un personaje que como pudimos comprobar en su propia película es muy poderoso.:star: Al nivel de Thor o Thanos con las Gemas del Infinito. Así que la batalla seguro que será muy épica y podremos disfrutar durante las 3 horas que dura la película.  :fire: Aunque probablemente una vez más los que mayor importancia tengan serán Iron Man / Tony Stark y Capitán América / Steve Rogers.:v: Dos personajes cuya relación ha sido la base de muchas de las películas de Marvel Studios que hemos visto hasta la fecha.
 
-## ¿Posible fin de la saga Avwngers?
+## ¿Posible fin de la saga Avengers?
 Es muy triste saber que en e algun futuro ya no podmaos ver a todos los vengadores juntos F.
 Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cinta más esperada en la historia de Marvel en el cine y con la que se resolverán los hechos acontecidos en 'Vengadores: Infinity War':hushed:. Con la película se pondrá final no solo a la saga de películas de Los Vengadores; también servirá para dar un punto y aparte a la veintena de obras que Marvel ha llevado al cine.:sob:
 
