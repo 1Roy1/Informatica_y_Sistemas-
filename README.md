@@ -3,11 +3,13 @@
 Esta pelicula me gusto mucho porque al ser un fan de marvel me gusta todo lo relacionado a los superheroes, ya que desde niño me gustaba leer comics y siempre me imaginaba o soñaba  ver una pelicula en donde todos los superheroes se pelearan :sunglasses:.  
 
 >Para mí estas películas marcaron historia y para un buen cinéfilo no puede faltar eta pelicula, como las tengo yo y las veo apenas tengo tiempo... excelente. 
-![Esta es una imagen] ()
+![840_560](https://user-images.githubusercontent.com/100391358/166491671-923dc26c-0225-441c-b5c3-62a1f66637df.jpg)
+
 ## Personajes favoritos de la pelicula: Ironman
 Uno de los personajes favoritos de la pelicula fue Ironman :smile:, me gusta mucho este personaje o bueno desde niño me ha gustaado porque al ser un vengador que talvez no tenga experiencia en combates el lo puede reflejar utilizando la tecnologia. 
 
 >El personaje de Iron Man fue el que lo inició todo en 2008 en Marvel Studios y nos despedimos de Tony Stark trágicamente en Vengadores: Endgame cuando se sacrificó para poder derrotar a Thanos. :smile:
+![f6db2f8fd026d1cc5df58031e220802a](https://user-images.githubusercontent.com/100391358/166492002-5d4324cf-cde9-4cb4-aae9-4d26d0766b9d.jpg)
 
 ## Curiosidades de la pelicula
 Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna persona no fan de marvel no las pudo notar, pero a continuación adjunto algunas curiosidades que te pueden interesar. :scream:
@@ -38,7 +40,6 @@ Es muy triste saber que en e algun futuro ya no podmaos ver a todos los vengador
 Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cinta más esperada en la historia de Marvel en el cine y con la que se resolverán los hechos acontecidos en 'Vengadores: Infinity War':hushed:. Con la película se pondrá final no solo a la saga de películas de Los Vengadores; también servirá para dar un punto y aparte a la veintena de obras que Marvel ha llevado al cine.:sob:
 
 'Vengadores: Endgame' supone también una despedida y así lo simbolizaron Anthony y Joe Russo. Los directores de la película y que han trabajado para Marvel en 'Capitán América: Soldado de invierno', 'Capitán América: Civil War' y en las dos últimas cintas de Vengadores anunciaron que con 'Endgame' se despedirían de las películas de Marvel:disappointed_relieved:
-
 ## Menciónes a amigos
 Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
 a dar un mejor esfuerzo.  👩‍💻
