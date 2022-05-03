@@ -9,6 +9,7 @@ Esta pelicula me gusto mucho porque al ser un fan de marvel me gusta todo lo rel
 Uno de los personajes favoritos de la pelicula fue Ironman :smile:, me gusta mucho este personaje o bueno desde niño me ha gustaado porque al ser un vengador que talvez no tenga experiencia en combates el lo puede reflejar utilizando la tecnologia. 
 
 >El personaje de Iron Man fue el que lo inició todo en 2008 en Marvel Studios y nos despedimos de Tony Stark trágicamente en Vengadores: Endgame cuando se sacrificó para poder derrotar a Thanos. :smile:
+![f6db2f8fd026d1cc5df58031e220802a](https://user-images.githubusercontent.com/100391358/166492002-5d4324cf-cde9-4cb4-aae9-4d26d0766b9d.jpg)
 
 ## Curiosidades de la pelicula
 Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna persona no fan de marvel no las pudo notar, pero a continuación adjunto algunas curiosidades que te pueden interesar. :scream:
