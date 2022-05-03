@@ -16,20 +16,20 @@ Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna
 
 >Datos curiosios encontrados y otros no encontrados  :sparkles:
 
-- [x] Nuevo ojo de alcon 
-- [x]  La terapia de Capitán América
-- [ ] El nuevo look de Capitana Marvel
-- [x] Professor Hulk
-- [x] La aparición de Fortnite
-- [ ] El Cameo de Stan Lee
-- [ ] De Community a Endgame
-- [ ] 'Proof that Tony Stark has a Heart'
-- [ ] Un invitado especial en el funeral
-- [x] Infinity War y Endgame se rodaron a la vez
-- [ ] El legado de Capitán América
-- [x] Sin post-créditos, pero con un bonito detalle
-- [x] ¿La más taquillera de la historia?
-- [ ] Howard, el Pato
+- [x] Nuevo ojo de alcon :heart_eyes:
+- [x]  La terapia de Capitán América :satisfied:
+- [ ] El nuevo look de Capitana Marvel  :stuck_out_tongue_winking_eye:
+- [x] Professor Hulk :office:
+- [x] La aparición de Fortnite :video_game:
+- [ ] El Cameo de Stan Lee :exclamation:
+- [ ] De Community a Endgame  :boom:
+- [ ] 'Proof that Tony Stark has a Heart' :fire:
+- [ ] Un invitado especial en el funeral :star:
+- [x] Infinity War y Endgame se rodaron a la vez :green_heart:
+- [ ] El legado de Capitán América :sparkler:
+- [x] Sin post-créditos, pero con un bonito detalle :no_bell:
+- [x] ¿La más taquillera de la historia? :movie_camera:
+- [ ] Howard, el Pato :hatched_chick:
 ## ¿De qué tratará la película?
 La historia continuará los eventos de Vengadores: Infinity War. Thanos destruyó la mitad de la vida del Universo y se retiró a un paradisíaco lugar. Los supervivientes deberán hacer frente a la situación e intentar revertirla. «Cueste lo que cueste» como bien dicen en el tráiler. 
     ✔️ «Cueste lo que cueste» como bien dicen en el tráiler.
@@ -43,6 +43,6 @@ Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cin
 
 'Vengadores: Endgame' supone también una despedida y así lo simbolizaron Anthony y Joe Russo. Los directores de la película y que han trabajado para Marvel en 'Capitán América: Soldado de invierno', 'Capitán América: Civil War' y en las dos últimas cintas de Vengadores anunciaron que con 'Endgame' se despedirían de las películas de Marvel:disappointed_relieved:
 ## Menciónes a amigos
-Para ello también agradezco al compañero @github/Abelillo14K https://github.com/Abelillo14K por motivarme siempre
+Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
 a dar un mejor esfuerzo.  👩‍💻
  
