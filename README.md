@@ -38,7 +38,8 @@ Es muy triste saber que en e algun futuro ya no podmaos ver a todos los vengador
 Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cinta más esperada en la historia de Marvel en el cine y con la que se resolverán los hechos acontecidos en 'Vengadores: Infinity War':hushed:. Con la película se pondrá final no solo a la saga de películas de Los Vengadores; también servirá para dar un punto y aparte a la veintena de obras que Marvel ha llevado al cine.:sob:
 
 'Vengadores: Endgame' supone también una despedida y así lo simbolizaron Anthony y Joe Russo. Los directores de la película y que han trabajado para Marvel en 'Capitán América: Soldado de invierno', 'Capitán América: Civil War' y en las dos últimas cintas de Vengadores anunciaron que con 'Endgame' se despedirían de las películas de Marvel:disappointed_relieved:
-## Menciónes a amigos 
-    Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
-    a dar un mejor esfuerzo.
-    👩‍💻
+
+## Menciónes a amigos
+Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
+a dar un mejor esfuerzo.  👩‍💻
+ 
