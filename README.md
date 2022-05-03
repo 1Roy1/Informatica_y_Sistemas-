@@ -1,5 +1,3 @@
-
-
 giphy(1).gif
 # Temas que me gustaron del curso
 ## Sistemas de información
