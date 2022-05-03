@@ -16,10 +16,9 @@ Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna
 
 >Datos curiosios encontrados y otros no encontrados  :sparkles:
 
-- [] https://github.com/1Roy1/Informatica_y_Sistemas-/issues
-- [ ] \(Optional) Abre una propuesta de seguimiento
+- [x] Nuevo ojo de alcon 
 - [x]  La terapia de Capitán América
-- [] El nuevo look de Capitana Marvel
+- [ ] El nuevo look de Capitana Marvel
 - [x] Professor Hulk
 - [x] La aparición de Fortnite
 - [ ] El Cameo de Stan Lee
