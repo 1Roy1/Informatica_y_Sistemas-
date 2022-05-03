@@ -1,9 +1,6 @@
 # Mi pelicula avorita
 ## Avengers: Endgame
 Esta pelicula me gusto mucho porque al ser un fan de marvel me gusta todo lo relacionado a los superheroes, ya que desde niño me gustaba leer comics y siempre me imaginaba o soñaba  ver una pelicula en donde todos los superheroes se pelearan :sunglasses:.  
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 >Para mí estas películas marcaron historia y para un buen cinéfilo no puede faltar eta pelicula, como las tengo yo y las veo apenas tengo tiempo... excelente. 
 ![840_560](https://user-images.githubusercontent.com/100391358/166491671-923dc26c-0225-441c-b5c3-62a1f66637df.jpg)
