@@ -16,7 +16,7 @@ Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna
 
 >Datos curiosios encontrados y otros no encontrados  :sparkles:
 
-- [x]  Un nuevo Ojo de Halcón 
+- [ ] https://github.com/1Roy1/Informatica_y_Sistemas-/issues
 - [x]  La terapia de Capitán América
 - [] El nuevo look de Capitana Marvel
 - [x] Professor Hulk
