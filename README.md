@@ -38,6 +38,8 @@ Para ello deberán viajar por el Reino Cuántico, un lugar del que sale Ant-Man 
 ## ¿Posible fin de la saga Avengers?
 Es muy triste saber que en e algun futuro ya no podmaos ver a todos los vengadores juntos F.
 Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cinta más esperada en la historia de Marvel en el cine y con la que se resolverán los hechos acontecidos en 'Vengadores: Infinity War':hushed:. Con la película se pondrá final no solo a la saga de películas de Los Vengadores; también servirá para dar un punto y aparte a la veintena de obras que Marvel ha llevado al cine.:sob:
+![279db2297599e57b23a07089a2aab30b](https://user-images.githubusercontent.com/100391358/166493018-567596b3-afd5-4c06-8cf5-a405ba5509ca.jpg)
+
 
 'Vengadores: Endgame' supone también una despedida y así lo simbolizaron Anthony y Joe Russo. Los directores de la película y que han trabajado para Marvel en 'Capitán América: Soldado de invierno', 'Capitán América: Civil War' y en las dos últimas cintas de Vengadores anunciaron que con 'Endgame' se despedirían de las películas de Marvel:disappointed_relieved:
 ## Menciónes a amigos
