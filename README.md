@@ -25,3 +25,15 @@ Son conjuntos de componentes interrelacionados que recolectan y almacenan inform
 - Internet
     - Red de computadoras
         - Red corporativa 
+
+
+    Los temas que aprendí en el Módulo 1 son los siguientes: 
+    ✔️ Introducción a la ingeniería en sistemas
+    ✔️ Teoría de sistemas
+    ✔️ Sistemas de información
+    ✔️ Introducción a git
+          ✓ Perfiles de Git    
+    
+    Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
+    a dar un mejor esfuerzo.
+    👩‍💻
