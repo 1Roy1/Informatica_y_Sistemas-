@@ -1,16 +1,9 @@
-<<<<<<< HEAD
 # Mi pelicula avorita
 ## Avengers: Endgame
 Esta pelicula me gusto mucho porque al ser un fan de marvel me gusta todo lo relacionado a los superheroes, ya que desde niño me gustaba leer comics y siempre me imaginaba o soñaba  ver una pelicula en donde todos los superheroes se pelearan :sunglasses:.  
-=======
-giphy(1).gif
-# Temas que me gustaron del curso
-## Sistemas de información
-Los sistemas de información básicamente es un conjunto de elementos que estan orientados a la administración de información, así como también listos para su uso posterior
->>>>>>> c9f34162de8188e9b00ecbb799fe592e3487b428
 
 >Para mí estas películas marcaron historia y para un buen cinéfilo no puede faltar eta pelicula, como las tengo yo y las veo apenas tengo tiempo... excelente. 
-
+![Esta es una imagen] ()
 ## Personajes favoritos de la pelicula: Ironman
 Uno de los personajes favoritos de la pelicula fue Ironman :smile:, me gusta mucho este personaje o bueno desde niño me ha gustaado porque al ser un vengador que talvez no tenga experiencia en combates el lo puede reflejar utilizando la tecnologia. 
 
