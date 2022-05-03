@@ -43,6 +43,7 @@ Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cin
 
 'Vengadores: Endgame' supone también una despedida y así lo simbolizaron Anthony y Joe Russo. Los directores de la película y que han trabajado para Marvel en 'Capitán América: Soldado de invierno', 'Capitán América: Civil War' y en las dos últimas cintas de Vengadores anunciaron que con 'Endgame' se despedirían de las películas de Marvel:disappointed_relieved:
 ## Menciónes a amigos
+@github/support ¿Qué piensas sobre estas actualizaciones?
 Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
 a dar un mejor esfuerzo.  👩‍💻
  
