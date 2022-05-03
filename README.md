@@ -1,4 +1,4 @@
-# Mi pelicula avorita
+# Mi pelicula favorita
 ## Avengers: Endgame
 Esta pelicula me gusto mucho porque al ser un fan de marvel me gusta todo lo relacionado a los superheroes, ya que desde niño me gustaba leer comics y siempre me imaginaba o soñaba  ver una pelicula en donde todos los superheroes se pelearan :sunglasses:.  
 
