@@ -16,7 +16,7 @@ Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna
 
 >Datos curiosios encontrados y otros no encontrados  :sparkles:
 
-- [x]  Un nuevo Ojo de Halcón #739
+- [x]  Un nuevo Ojo de Halcón 
 - [x]  La terapia de Capitán América
 - [] El nuevo look de Capitana Marvel
 - [x] Professor Hulk
