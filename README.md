@@ -14,20 +14,20 @@ Creo que esta pelicula nos reflejo easter eggs de los comics, pero talvez alguna
 
 >Datos curiosios encontrados y otros no encontrados  :sparkles:
 
-[x]  Un nuevo Ojo de Halcón
-[x]  La terapia de Capitán América
-[] El nuevo look de Capitana Marvel
-[x] Professor Hulk
-[x] La aparición de Fortnite
-[] El Cameo de Stan Lee
-[] De Community a Endgame
-[] 'Proof that Tony Stark has a Heart'
-[] Un invitado especial en el funeral
-[x] Infinity War y Endgame se rodaron a la vez
-[] El legado de Capitán América
-[x] Sin post-créditos, pero con un bonito detalle
-[x] ¿La más taquillera de la historia?
-[] Howard, el Pato
+- [x]  Un nuevo Ojo de Halcón
+- [x]  La terapia de Capitán América
+- [] El nuevo look de Capitana Marvel
+- [x] Professor Hulk
+- [x] La aparición de Fortnite
+- [] El Cameo de Stan Lee
+- [] De Community a Endgame
+- [] 'Proof that Tony Stark has a Heart'
+- [] Un invitado especial en el funeral
+- [x] Infinity War y Endgame se rodaron a la vez
+- [] El legado de Capitán América
+- [x] Sin post-créditos, pero con un bonito detalle
+- [x] ¿La más taquillera de la historia?
+- [] Howard, el Pato
 ## ¿De qué tratará la película?
 La historia continuará los eventos de Vengadores: Infinity War. Thanos destruyó la mitad de la vida del Universo y se retiró a un paradisíaco lugar. Los supervivientes deberán hacer frente a la situación e intentar revertirla. «Cueste lo que cueste» como bien dicen en el tráiler. 
     ✔️ «Cueste lo que cueste» como bien dicen en el tráiler.
