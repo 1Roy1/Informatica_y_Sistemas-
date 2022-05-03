@@ -1,3 +1,6 @@
+
+
+giphy(1).gif
 # Temas que me gustaron del curso
 ## Sistemas de información
 Los sistemas de información básicamente es un conjunto de elementos que estan orientados a la administración de información, así como también listos para su uso posterior
