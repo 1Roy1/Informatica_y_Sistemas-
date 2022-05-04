@@ -45,5 +45,3 @@ Llega a los cines de medio mundo 'Vengadores: Endgame', la que quizá sea la cin
 ## Menciónes a amigos
 Para ello también agradezco al compañero @Abelillo14K https://github.com/Abelillo14K por motivarme siempre
 a dar un mejor esfuerzo.  👩‍💻
- 
-:)
